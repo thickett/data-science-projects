@@ -8,6 +8,7 @@ In the end we were able to build a model that used Xception as a base with a sma
 
 **Note:** The below image shows the first eight channel outputs for the first three convolution layers, named on the y axis for each of the 4 classes, named on the x-axis.
 
+![Final Model channel image](https://github.com/thickett/data-science-projects/blob/main/Colon%20Disease%20deep%20learning/final_image_small.PNG)
 
 
 #### Key skills utalised:
