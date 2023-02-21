@@ -6,6 +6,10 @@ We also build a sophistacted keras tuning framework using a sort of genetic algo
 
 In the end we were able to build a model that used Xception as a base with a small task-specific layer built ontop and a collection of data augmentations that achieved an f1-score of 0.90. One of the 4 classes proved to be harder to correctly predict than the others, this class can be identified in the below images which shows the outputs of a sub-sample of layers for different channels on a seperate image for each of the four classes. 
 
+**Note:** The below image shows the first eight channel outputs for the first three convolution layers, named on the y axis for each of the 4 classes, named on the x-axis.
+
+
+
 #### Key skills utalised:
 
 * Tensorflow
